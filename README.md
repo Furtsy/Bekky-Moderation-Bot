@@ -9,3 +9,9 @@ Moderation commands;
 b!channel-description, b!channel-name, b!cleanuser, b!clear-chat, b!create-channel, b!create-voice-channel, b!kick, b!mute, b!unban, b!warn
 User commands;
 b!help
+# Bekky Bot Owners
+-Kong#4425(347421827246850050)
+-Emirhan#6118(485741578615521291)
+-Yusuf#2699(326692518118948865)
+-b e r k a y#0001(521272952117919754)
+-HeaveN#4048(338316550442450954)
