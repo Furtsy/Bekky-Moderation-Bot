@@ -9,6 +9,7 @@ Moderation commands;
 b!channel-description, b!channel-name, b!cleanuser, b!clear-chat, b!create-channel, b!create-voice-channel, b!kick, b!mute, b!unban, b!warn
 User commands;
 b!help
+İnvite Link: https://discordapp.com/oauth2/authorize?client_id=591594237066346508&scope=bot&permissions=2146958591
 # Bekky Bot Owners
 -Kong#4425(347421827246850050)
 -Emirhan#6118(485741578615521291)
